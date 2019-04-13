@@ -4,6 +4,7 @@ public class MyHelloWorld{
             b.Price__c *= 0.9;
         }
 	}*/
+    //test csal
     public static void sendMail()
     {
         ApexPages.PageReference booksReport = new ApexPages.PageReference('https://na31.salesforce.com/00O370000020GQi');
